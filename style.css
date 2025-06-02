@@ -104,3 +104,10 @@
         padding: 1rem;
       }
     }
+
+    footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: var(--cor-primaria);
+  color: white;
+}
